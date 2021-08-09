@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Plastic Love",
+      "author": "Mariya Takeuchi",
+      "id": 2
+    },
+    {
+      "title": "Kuusou Mesorogiwi",
+      "author": "Yousei Teikoku",
+      "id": 7
+    },
+    {
+      "title": "Run Silent Run Deep",
+      "author": "Iron Maiden",
+      "id": 13
+    },
+    {
+      "title": "Riot ",
+      "author": "Three Days Grace",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
